@@ -7,7 +7,7 @@ export const Todo = () => {
       <header className='col-[1/3] row-[1/2] bg-[#cfdafa]'></header>
       <ul></ul>
 
-      <section className='border-l-2 border-l-black-[0.08]'>ok</section>
+      <section className='border-l-2 border-l-black-[0.08]'></section>
       </main>
     </div>
   )

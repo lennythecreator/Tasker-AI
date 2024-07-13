@@ -1,11 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
 #root {
   /* max-width: 1280px; */
   height: 100vh;
   margin: 0 auto;
   text-align: center;
   background-color: #ffff;
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color: #f1f1f1;
+  
 }
+
+
